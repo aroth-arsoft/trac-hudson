@@ -1,3 +1,9 @@
+trac-hudson (0.5+svn12071-1~aroth~ppa2) trusty; urgency=medium
+
+  * rebuild for active distros
+
+ -- Andreas Roth <aroth@arsoft-online.com>  Sun, 25 May 2014 17:34:27 +0200
+
 trac-hudson (0.5+svn12071-1~aroth~ppa1~precise1) precise; urgency=low
 
   * latest upstream version 0.5 with api_token support
