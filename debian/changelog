@@ -1,0 +1,18 @@
+trac-hudson (0.5+svn12071-1~aroth~ppa1~precise1) precise; urgency=low
+
+  * latest upstream version 0.5 with api_token support
+
+ -- Andreas Roth <aroth@arsoft-online.com>  Sat, 29 Sep 2012 08:40:19 +0200
+
+trac-hudson (0.4+svn10642-2~aroth~ppa1) natty; urgency=low
+
+  * rebuild package with original sources 
+
+ -- Andreas Roth <aroth@arsoft-online.com>  Wed, 07 Sep 2011 07:27:01 +0200
+
+trac-hudson (0.4+svn10642-1~aroth~ppa1) natty; urgency=low
+
+  * first package for natty
+
+ -- Andreas Roth <aroth@arsoft-online.com>  Wed, 07 Sep 2011 07:20:29 +0200
+
