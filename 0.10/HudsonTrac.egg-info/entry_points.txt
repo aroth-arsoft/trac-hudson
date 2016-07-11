@@ -1,3 +1,0 @@
-[trac.plugins]
-HudsonTrac = HudsonTrac.HudsonTracPlugin
-
