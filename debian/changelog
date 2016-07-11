@@ -1,3 +1,11 @@
+trac-hudson (0.5+svn15657-1~aroth1) xenial; urgency=medium
+
+  * new upstream version
+  * switch to pybuild
+  * add missing SOURCES.txt
+
+ -- Andreas Roth <aroth@arsoft-online.com>  Mon, 11 Jul 2016 08:02:16 +0200
+
 trac-hudson (0.5+svn12071-1~aroth~ppa2) trusty; urgency=medium
 
   * rebuild for active distros
