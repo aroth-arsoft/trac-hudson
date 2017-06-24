@@ -1,3 +1,6 @@
 /.pybuild/
 /.pc/
 /HudsonTrac.egg-info/
+/HudsonTrac/
+/setup.cfg
+/setup.py

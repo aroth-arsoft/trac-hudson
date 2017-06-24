@@ -1,3 +1,9 @@
+trac-hudson (0.6+svn16676-1~aroth1) zesty; urgency=medium
+
+  * latest upstream version rev 16676
+
+ -- Andreas Roth <aroth@arsoft-online.com>  Sat, 24 Jun 2017 17:26:26 +0200
+
 trac-hudson (0.5+svn15657-1~aroth1) xenial; urgency=medium
 
   * new upstream version
